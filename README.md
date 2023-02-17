@@ -7,8 +7,7 @@ source ./env/bin/activate
 pip install -r django-stripe-test/requirements.txt
 django-stripe-test/manage.py runserver
 ```
-**Ссылка на сайт**
-[ссылка](https://shempton.pythonanywhere.com/item/1/)
+**[Ссылка на сайт](https://shempton.pythonanywhere.com/item/1/)**
 
 **Демонстрация работы**
 

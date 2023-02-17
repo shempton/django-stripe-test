@@ -1,4 +1,5 @@
 # *Тестовое задание*
+###### Запуск приложения
 1. git clone git@github.com:shempton/django-stripe-test.git
 2. python -m venv env
 3. source ./env/bin/activate

@@ -1,5 +1,5 @@
 # *Тестовое задание*
-###### Запуск приложения
+## Запуск приложения
 ```
 git clone git@github.com:shempton/django-stripe-test.git
 python -m venv env

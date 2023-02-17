@@ -4,8 +4,9 @@
 git clone git@github.com:shempton/django-stripe-test.git
 python -m venv env
 source ./env/bin/activate
-pip install -r django-stripe-test/requirements.txt
-django-stripe-test/manage.py runserver
+cd django-stripe-test/
+pip install -r requirements.txt
+./manage.py runserver
 ```
 **[Ссылка на сайт](https://shempton.pythonanywhere.com/item/1/)**
 

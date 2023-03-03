@@ -8,7 +8,6 @@ cd django-stripe-test/
 pip install -r requirements.txt
 ./manage.py runserver
 ```
-**[Ссылка на сайт](https://shempton.pythonanywhere.com/item/1/)**
 
 **Демонстрация работы**
 
